@@ -1,0 +1,15 @@
+     
+
+
+  
+   Welcome to Anabia Parking
+ ----------------------------
+  PARKING MENU:(per hour)
+       1.Bus-------------200tk
+       2.Car-------------150tk
+       3.Bike------------100tk
+       4.Cycle-----------80tk
+       5.Truck-----------300tk
+----------------------------------
+       6.Details of that day
+       7.Exit
